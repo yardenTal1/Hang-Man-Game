@@ -1,0 +1,20 @@
+yardental
+203720700
+yarden tal
+
+I discussed the exercise with:
+
+=============================
+=  README for ex4: hangman=
+=============================
+
+
+==================
+=  Description:  =
+==================
+Hangman is a game for one player that tries to guess a random word that choosen by the computer by suggesting letters in English, within a certain number of wrong guesses. The player needs to guess the word before the computer completes the hangman
+
+======================
+=  Special Comments  =
+======================
+If we wanted to play the game with Hebrew letters so we had to modify the function 'if_letter' with a list with Alphabetical letters and a different length. And also change the functions: 'letter_to_index' and ' index_to_letter'
